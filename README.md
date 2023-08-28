@@ -1,6 +1,8 @@
 # 7-SSD1963-FSMC-STM32-STM32F407-BIG-FONT
 7 SSD1963 FSMC STM32 STM32F407 BIG FONT
 
+****DON't Forget 5V EXTERNAL POWRER****
+
 https://www.youtube.com/watch?v=7w4HRFQ3JNk
 
 ![Screenshot_22](https://github.com/offpic/7-SSD1963-FSMC-STM32-STM32F407-BIG-FONT/assets/31142397/49e9ee02-e019-404c-9a31-9d5fb3dda63b)
